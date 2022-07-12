@@ -26,3 +26,10 @@ lista de tarefas:
 -[x]criar pagina da loja
 -[]finalizar reuniao com cliente
 -[]receber pagameto
+
+
+num | nome | nota
+---|---|---
+1| gustavo | 8.5
+2|jose |10,0
+3|maria | 9
